@@ -42,7 +42,7 @@ export default function Hero() {
           {/* Stats */}
           <div className="mt-12 grid grid-cols-2 gap-6 max-w-xs">
             {[
-              { value: '35%', label: 'Protein Tinggi' },
+              { value: '18%', label: 'Protein Tinggi' },
               { value: '100%', label: 'Bahan Alami' },
             ].map((s) => (
               <div key={s.label}>
