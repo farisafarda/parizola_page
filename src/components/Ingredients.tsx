@@ -6,9 +6,9 @@ const ingredients = [
     subtitle: 'Microphylla',
     tagline: 'Superfood Protein Nabati',
     description:
-      'Azolla adalah pakis air kecil yang tumbuh cepat dan kaya protein (25-35%), asam amino esensial, vitamin A & B12, serta mineral. Sebagai pakan ayam, Azolla meningkatkan pertumbuhan dan menurunkan biaya pakan hingga 30%.',
+      'Azolla adalah pakis air kecil yang tumbuh cepat dan kaya protein (18%), asam amino esensial, vitamin A & B12, serta mineral. Sebagai pakan ayam, Azolla meningkatkan pertumbuhan dan menurunkan biaya pakan hingga 30%.',
     nutrients: [
-      { label: 'Protein', value: '25-35%' },
+      { label: 'Protein', value: '18%' },
       { label: 'Serat', value: '10-15%' },
       { label: 'Mineral', value: '8-12%' },
     ],
